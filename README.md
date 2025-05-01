@@ -4,8 +4,7 @@ A classic PacMan game clone built using modern web technologies. Guide PacMan th
 
 ## 📸 Screenshots
 
-![PacMan Screenshot](#)  
-*(Add a screenshot or gameplay gif here)*
+![PacMan Screenshot](bin/pacmangame.png)
 
 ## 🕹️ Features
 
