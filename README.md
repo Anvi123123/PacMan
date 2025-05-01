@@ -1,18 +1,19 @@
-## Getting Started
+# PacMan Game 🎮
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A classic PacMan game clone built using modern web technologies. Guide PacMan through the maze, eat all the pellets, avoid ghosts, and relive the retro arcade experience!
 
-## Folder Structure
+## 📸 Screenshots
 
-The workspace contains two folders by default, where:
+![PacMan Screenshot](#)  
+*(Add a screenshot or gameplay gif here)*
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🕹️ Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Classic PacMan gameplay mechanics
+- Real-time keyboard controls
+- Responsive UI for various screen sizes
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tech Stack
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Language:** Java
+- **Editor:** Visual Studio Code
